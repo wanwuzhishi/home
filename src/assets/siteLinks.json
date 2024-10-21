@@ -1,18 +1,29 @@
 [
   {
     "icon": "Blog",
-    "name": "博客",
-    "link": "https://blog.imsyy.top/"
+    "name": "博客主站",
+    "link": "https://blog.wwzs.fun/"
+  },
+  {
+    "icon": "Blog",
+    "name": "博客备用1",
+    "link": "https://wanwuzhishi.github.io/"
+  },
+  {
+    "icon": "Blog",
+    "name": "博客备用2",
+    "link": "https://tinymind.me/wanwuzhishi"
   },
   {
     "icon": "Cloud",
-    "name": "网盘",
-    "link": "https://pan.imsyy.top/"
+    "name": "图床",
+    "link": "https://tuwwzs.pages.dev/"
   },
   {
     "icon": "CompactDisc",
     "name": "音乐",
-    "link": "https://music.imsyy.top/"
+    "link": "https://music.imsyy.top/",
+    "disabled": true
   },
   {
     "icon": "Compass",
@@ -22,16 +33,18 @@
   {
     "icon": "Book",
     "name": "网址集",
-    "link": "https://web.imsyy.top/"
+    "link": "https://wanwuzhishi.github.io/pintree/"
   },
   {
     "icon": "Fire",
     "name": "今日热榜",
-    "link": "https://hot.imsyy.top/"
+    "link": "https://hot.imsyy.top/",
+    "disabled": true
   },
   {
     "icon": "LaptopCode",
     "name": "站点监测",
-    "link": "https://status.imsyy.top/"
+    "link": "https://status.imsyy.top/",
+    "disabled": true
   }
 ]
