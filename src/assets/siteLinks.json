@@ -20,31 +20,8 @@
     "link": "https://tuwwzs.pages.dev/"
   },
   {
-    "icon": "CompactDisc",
-    "name": "音乐",
-    "link": "https://music.imsyy.top/",
-    "disabled": true
-  },
-  {
-    "icon": "Compass",
-    "name": "起始页",
-    "link": "https://nav.imsyy.top/"
-  },
-  {
     "icon": "Book",
     "name": "网址集",
     "link": "https://wanwuzhishi.github.io/pintree/"
-  },
-  {
-    "icon": "Fire",
-    "name": "今日热榜",
-    "link": "https://hot.imsyy.top/",
-    "disabled": true
-  },
-  {
-    "icon": "LaptopCode",
-    "name": "站点监测",
-    "link": "https://status.imsyy.top/",
-    "disabled": true
   }
 ]
