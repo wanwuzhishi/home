@@ -26,7 +26,12 @@
   },
   {
     "icon": "CustomIcon",
-    "name": "ChatGPT",
+    "name": "AI",
+    "link": "https://ai.wwzs.fun/"
+  },
+  {
+    "icon": "CustomIcon",
+    "name": "备用AI",
     "link": "https://wwzsai.netlify.app/"
   }
 ]
