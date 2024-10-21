@@ -23,5 +23,10 @@
     "icon": "Book",
     "name": "网址集",
     "link": "https://wanwuzhishi.github.io/pintree/"
+  },
+  {
+    "icon": "CustomIcon",
+    "name": "ChatGPT",
+    "link": "https://wwzsai.netlify.app/"
   }
 ]

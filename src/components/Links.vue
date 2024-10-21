@@ -27,9 +27,13 @@
               :style="index < 3 ? 'margin-bottom: 20px' : null"
               @click="jumpLink(item)"
             >
-              <Icon size="26">
+              <!-- 对于其他图标 -->
+              <Icon size="26" v-if="item.icon !== 'CustomIcon'">
                 <component :is="siteIcon[item.icon]" />
               </Icon>
+              
+              <!-- 对于 CustomIcon -->
+              <CustomIcon :size="32" v-else />
               <span class="name text-hidden">{{ item.name }}</span>
             </div>
           </el-col>
@@ -48,6 +52,7 @@ import { mainStore } from "@/store";
 import { Swiper, SwiperSlide } from "swiper/vue";
 import { Pagination, Mousewheel } from "swiper/modules";
 import siteLinks from "@/assets/siteLinks.json";
+import CustomIcon from './CustomIcon.vue'; // 导入自定义图标
 
 const store = mainStore();
 
@@ -70,6 +75,7 @@ const siteIcon = {
   Book,
   Fire,
   LaptopCode,
+  CustomIcon, // 确保这里添加了 CustomIcon
 };
 
 // 链接跳转
@@ -180,3 +186,4 @@ onMounted(() => {
   }
 }
 </style>
+
