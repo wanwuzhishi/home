@@ -38,5 +38,10 @@
     "icon": "QdIcon",
     "name": "QD签到",
     "link": "http://1.94.136.13:40022/"
+  },
+  {
+    "icon": "LaptopCode",
+    "name": "站点监测",
+    "link": "https://uptimeflare-bjr.pages.dev/"
   }
 ]
