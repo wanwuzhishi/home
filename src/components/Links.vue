@@ -53,7 +53,7 @@ import { Swiper, SwiperSlide } from "swiper/vue";
 import { Pagination, Mousewheel } from "swiper/modules";
 import siteLinks from "@/assets/siteLinks.json";
 import CustomIcon from './CustomIcon.vue'; // 导入自定义图标
-
+import QdIcon from './icons/QdIcon.vue'; // 保留本地的 QdIcon 导入
 const store = mainStore();
 
 // 计算网站链接
@@ -75,7 +75,8 @@ const siteIcon = {
   Book,
   Fire,
   LaptopCode,
-  CustomIcon, // 确保这里添加了 CustomIcon
+  CustomIcon,
+  QdIcon, // 确保这里添加了 CustomIcon
 };
 
 // 链接跳转

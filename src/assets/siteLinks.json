@@ -33,5 +33,10 @@
     "icon": "CustomIcon",
     "name": "备用AI",
     "link": "https://wwzsai.netlify.app/"
+  },
+  {
+    "icon": "QdIcon",
+    "name": "QD签到",
+    "link": "http://1.94.136.13:40022/"
   }
 ]
