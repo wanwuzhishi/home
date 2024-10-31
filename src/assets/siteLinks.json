@@ -1,18 +1,18 @@
 [
   {
     "icon": "Blog",
-    "name": "博客主站",
+    "name": "博客1",
     "link": "https://blog.wwzs.fun/"
   },
   {
     "icon": "Blog",
-    "name": "博客备用1",
-    "link": "https://wanwuzhishi.github.io/"
+    "name": "博客2",
+    "link": "https://hugo.126330.xyz/"
   },
   {
     "icon": "Blog",
-    "name": "博客备用2",
-    "link": "https://tinymind.me/wanwuzhishi"
+    "name": "博客3",
+    "link": "https://wanwuzhishi.github.io/"
   },
   {
     "icon": "Cloud",
@@ -26,12 +26,12 @@
   },
   {
     "icon": "CustomIcon",
-    "name": "AI",
+    "name": "AI1",
     "link": "https://ai.wwzs.fun/"
   },
   {
     "icon": "CustomIcon",
-    "name": "备用AI",
+    "name": "AI2",
     "link": "https://wwzsai.netlify.app/"
   },
   {
