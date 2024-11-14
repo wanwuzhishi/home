@@ -20,9 +20,9 @@
     "link": "https://tuwwzs.pages.dev/"
   },
   {
-    "icon": "Book",
-    "name": "网址集",
-    "link": "https://wanwuzhishi.github.io/pintree/"
+    "icon": "Cloud",
+    "name": "云盘",
+    "link": "https://pan.126330.xyz/"
   },
   {
     "icon": "CustomIcon",
@@ -38,6 +38,11 @@
     "icon": "QdIcon",
     "name": "QD签到",
     "link": "https://qd.wwzs.fun/"
+  },
+  {
+    "icon": "Book",
+    "name": "网址集",
+    "link": "https://wanwuzhishi.github.io/pintree/"
   },
   {
     "icon": "LaptopCode",
